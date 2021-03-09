@@ -1,0 +1,4 @@
+shinyjs
+ggplot2
+tidyr
+github.jcheng5/googleCharts
